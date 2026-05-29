@@ -64,9 +64,16 @@ print(cl)
 ```
 
 ## Output:
+## data 
 <img width="1048" height="657" alt="image" src="https://github.com/user-attachments/assets/cde95cf0-82a3-4153-ad98-2e5ceb908f92" />
+
+## confusion matrix 
 <img width="962" height="83" alt="image" src="https://github.com/user-attachments/assets/2b69cfde-96a8-4ee9-9630-6bb9a79db740" />
+
+## accuracy
 <img width="877" height="77" alt="447100524-d1b52a4e-add4-4533-b2ec-914450655b75" src="https://github.com/user-attachments/assets/62814771-b808-4201-94f8-f58a39fc64e7" />
+
+## classification report 
 <img width="873" height="265" alt="447099831-7411653b-9ca9-4ebf-9ba6-ec3f126c97bd" src="https://github.com/user-attachments/assets/1b8398d5-aae6-4a19-a332-3d8899e0985f" />
 
 
